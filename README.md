@@ -60,4 +60,16 @@ Interaja com o Chatbot: A função chatbot_guardiao_das_memorias_v10() na últim
 
 Ryan Felipe Rangel - Omooriey
 
+# Agradecimentos 
+
+Aos estimados professores Francisco, Luciano e Valquiria, minha gratidão mais profunda e sincera. Agradeço cada ensinamento, desde os conceitos mais fundamentais até os ensinamentos mais complexos. Cada aula foi uma porta aberta para, literalmente, um novo universo rico em possibilidades, e cada projeto desenvolvido sob a companhia dos três foi uma oportunidade de transformar o conhecimento em realidade.
+
+A didática leve, parceira e calma, proporcionou uma base de estudos sólida não apenas para mim, mas com certeza de outros milhares alunos. Por enquanto, essa interação entre a Imersão e a Comunidade dos Devs pode estar chegando ao fim, todavia, é com toda a certeza do mundo que eu afirmo que meus estudos certamente não terminarão por aqui. 
+
+Novamente, agradeço pelo incrivel material disponibilizado de forma totalmente gratuita e acessível aos alunos. Aproveito e parabenizo também, em especial, os responsáveis pelo controle da Plataforma/Site Alura, e os Materiais + Links Extras prontamente disponibilizados, todos essenciais para o meu desenvolvimento e aperfeiçoamento durante esses cinco dias de Imersão.
+
+
+
+
+
 
