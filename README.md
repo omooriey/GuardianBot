@@ -1,6 +1,7 @@
 # GuardianBot
 
 Projeto Desenvolvido - Imersão IA Alura + Google Gemini
+
 GuardianBot é um chatbot interativo desenvolvido como parte da Imersão em Inteligência Artificial da Alura, utilizando o poderoso modelo de linguagem Google Gemini. Este bot foi projetado para ser um "guardião de memórias" amigável, capaz de conversar, ajudar a relembrar momentos importantes, evocar sentimentos relacionados a pessoas queridas e oferecer frases motivacionais para diferentes estados de espírito.
 
 # Funcionalidades Principais
@@ -30,3 +31,9 @@ Adicione sua API Key: No Colab, vá em "Secrets" (ícone de chave na barra later
 Execute as Células: Execute as células de código sequencialmente, começando pela instalação das bibliotecas e configuração da API Key.
 
 Interaja com o Chatbot: A função chatbot_guardiao_das_memorias_v10() na última célula iniciará o chatbot no ambiente do Colab. Siga as instruções no console para interagir com ele.
+
+# Autor
+
+Ryan Felipe Rangel - Omooriey
+
+
