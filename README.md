@@ -68,7 +68,7 @@ A didática leve, parceira e calma, proporcionou uma base de estudos sólida nã
 
 Novamente, agradeço pelo incrivel material disponibilizado de forma totalmente gratuita e acessível aos alunos. Aproveito e parabenizo também, em especial, os responsáveis pelo controle da Plataforma/Site Alura, e os Materiais + Links Extras prontamente disponibilizados, todos essenciais para o meu desenvolvimento e aperfeiçoamento durante esses cinco dias de Imersão.
 
-
+Atenciosamente, Ryan.
 
 
 
