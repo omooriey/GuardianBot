@@ -8,7 +8,9 @@ GuardianBot é um chatbot interativo desenvolvido como parte da Imersão em Inte
 
 GuardianBot é mais do que um simples chatbot; ele é um abraço digital concebido com profunda empatia e um olhar atencioso para as necessidades de um público especial: indivíduos com Alzheimer e seus dedicados cuidadores.
 
-A missão do projeto transcende a tecnologia, muito além da busca por um prêmio ao fim da Imersão. Queremos ser um farol suave na jornada, muitas vezes desafiadora, da Doença de Alzheimer. 
+A missão do projeto transcende a tecnologia, e vai muito além da busca por um prêmio ao fim da Imersão. Queremos ser um farol suave na jornada, muitas vezes desafiadora, da Doença de Alzheimer. 
+
+Nossa real conquista é a felicidade. É o carinho. É o cuidado.
 
 # Funcionalidades Principais
 
