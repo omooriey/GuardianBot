@@ -2,17 +2,41 @@
 
 Projeto Desenvolvido - Imersão IA Alura + Google Gemini
 
-GuardianBot é um chatbot interativo desenvolvido como parte da Imersão em Inteligência Artificial da Alura, utilizando o poderoso modelo de linguagem Google Gemini. Este bot foi projetado para ser um "guardião de memórias" amigável, capaz de conversar, ajudar a relembrar momentos importantes, evocar sentimentos relacionados a pessoas queridas e oferecer frases motivacionais para diferentes estados de espírito.
+GuardianBot é um chatbot interativo desenvolvido como parte da Imersão em Inteligência Artificial da Alura, utilizando o poderoso modelo de linguagem Google Gemini. Este bot foi projetado para ser um "guardião de memórias" amigável, capaz de conversar, ajudar a relembrar momentos importantes, evocar sentimentos relacionados a pessoas queridas e oferecer frases motivacionais para diferentes estados de espírito. 
+
+# Público-Alvo
+
+GuardianBot é mais do que um simples chatbot; ele é um abraço digital concebido com profunda empatia e um olhar atencioso para as necessidades de um público especial: indivíduos com Alzheimer e seus dedicados cuidadores.
+
+A missão do projeto transcende a tecnologia, muito além da busca por um prêmio ao fim da Imersão. Queremos ser um farol suave na jornada, muitas vezes desafiadora, da Doença de Alzheimer. 
 
 # Funcionalidades Principais
 
-Conversa Amigável: Engaja em conversas leves e estimulantes com o usuário, atuando como um amigo virtual.
+Para aqueles que vivenciam a perda gradual de preciosas lembranças, o GuardianBot se apresenta como um gentil companheiro, oferecendo:
 
-Relembrar Memórias: Ajuda o usuário a recordar momentos específicos a partir de palavras-chave, desenvolvendo a lembrança através de perguntas sutis.
+# Ao Enfermo
 
-Pessoas Queridas: Facilita a recordação de informações e sentimentos associados a pessoas importantes na vida do usuário.
+Estímulo Delicado à Memória: Através de prompts cuidadosamente elaborados, o bot busca reacender faíscas de lembranças queridas, proporcionando momentos fugazes de conexão com o passado.
 
-Frases Motivacionais: Oferece frases inspiradoras e de apoio para diferentes estados emocionais como alegria, tristeza, frustração e calma.
+Conversas Leves e Acessíveis: Em um mundo que pode se tornar confuso, o GuardianBot oferece interações simples e amigáveis, adaptando-se ao ritmo e à compreensão do usuário.
+
+Reconforto Emocional: Ao evocar lembranças de pessoas queridas e oferecer palavras de motivação, o bot busca trazer conforto e reduzir sentimentos de isolamento.
+
+# Aos Cuidadores
+
+Para os incansáveis cuidadores, o GuardianBot pode ser uma ferramenta valiosa ao:
+
+Oferecer Novos Caminhos para a Interação: Proporcionando uma forma inovadora e engajadora de se conectar com a pessoa cuidada, especialmente em momentos de dificuldade de comunicação.
+
+Sugerir Tópicos de Conversa: Ao estimular a lembrança de eventos e pessoas, o bot pode abrir novas avenidas para a interação e o compartilhamento.
+
+Lembrar a Humanidade em Cada Interação: Reforçando a importância da conexão emocional e da valorização das memórias, mesmo que fragmentadas.
+
+# Nossa Missão
+
+Acreditamos que a tecnologia, quando guiada pela compaixão e o carinho humano, pode desempenhar um papel significativo no apoio àqueles afetados pelo Alzheimer. A criação do GuardianBot é um testemunho dessa crença, um projeto que nasceu do desejo de oferecer um pouco de luz, apoio, conforto e conexão na jornada delicada da memória. Nosso público-alvo é o coração deste projeto, e cada interação é um passo em direção a um cuidado mais humano e atencioso.
+
+Nosso compromisso é inabalável: utilizar o poder da inteligência artificial para honrar a dignidade, celebrar as lembranças e fortalecer os laços que unem aqueles afetados pelo Alzheimer. O GuardianBot é mais do que um projeto; é uma declaração de que cada memória importa, e cada conexão humana merece ser nutrida com carinho e inovação.
 
 # Tecnologias Utilizadas
 
